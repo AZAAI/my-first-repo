@@ -1,0 +1,5 @@
+My GitHub Learning Notes
+========================
+- Today I created my first repository!
+- I learned how to create a new file directly on GitHub
+- Next: learn how to use git from the terminal
