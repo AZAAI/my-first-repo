@@ -4,3 +4,4 @@ My GitHub Learning Notes
 - I learned how to create a new file directly on GitHub
 - Next: learn how to use git from the terminal
 - Day 2: I learned how to edit files and will learn branches today!
+- This line only exists on my-first-branch, NOT on main!
